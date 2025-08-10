@@ -62,7 +62,8 @@ public class Main {
     }
 
     private static void showMainMenu() {
-        System.out.println("\nMain Menu:");
+        System.out.println("\n==== EBENEZER COMMUNITY LIBRARY ====");
+        System.out.println("Main Menu:");
         System.out.println(" 1) Add Book");
         System.out.println(" 2) List Books (by category)");
         System.out.println(" 3) Search Books (linear/binary)");
